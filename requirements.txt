@@ -1,0 +1,8 @@
+# Core dependencies
+# RPi.GPIO is only needed on Raspberry Pi hardware
+# It's pre-installed on Raspberry Pi OS, but listed here for reference
+
+# Uncomment if running on Raspberry Pi:
+# RPi.GPIO>=0.7.0
+
+# No other dependencies required - uses Python standard library
