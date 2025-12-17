@@ -293,6 +293,7 @@ def broadcast_prayer(text: str):
 ## Acknowledgments
 
 - **Javaman and the Cult of the Dead Cow** for the original Automated Prayer Project
+- **Claude Opus 4.5** for inspiration and doing the software legwork
 - **Antónia d'Astónaco** to whom St. Michael gave this chaplet
 - **Padre Pio** who recommended it to those suffering from temptation
 - All who click prayers into the void, trusting they are received
